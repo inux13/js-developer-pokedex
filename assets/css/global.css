@@ -1,0 +1,10 @@
+@import url(./pokedex.css);
+
+* {
+    font-family: "Roboto";
+
+}
+
+body{
+    background-color: #fafafa;
+}
