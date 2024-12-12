@@ -1,12 +1,17 @@
 .content {
     padding: 1rem;
-    background-color: #ffff;
-    height: 100vh;
+    background-color: #fafbfc;
+    height:fit-content;
     box-sizing: border-box;
 }
 
 .content h1 {
     margin: 0;
+}
+
+.content h1 img {
+    height: 70px;
+
 }
 
 .lista {
